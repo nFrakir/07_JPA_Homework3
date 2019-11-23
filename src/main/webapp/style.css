@@ -1,0 +1,42 @@
+h2 {
+    color: #151a2b;
+}
+
+legend {
+    font-weight: bold;
+}
+
+div {
+    max-width: 500px;
+}
+
+div.frm {
+    background-color: aquamarine;
+}
+div.tbl {
+    background-color: #5382c8;
+}
+
+.elements {
+    width: 100px;
+}
+
+.longelements {
+    width: 100%;
+}
+
+table.borders {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th, tr{
+    padding: 3px;
+    border:1px solid black;
+}
+
+
+.btn {
+    min-width: 100px;
+    float: right;
+}
